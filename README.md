@@ -18,7 +18,7 @@ With the above script entry, you can then start lite-server via:
 
 $ npm run dev
 
-#Global Installation
+# Global Installation
 lite-server can be also installed globally, if preferred:
 
 $ npm install -g lite-server
