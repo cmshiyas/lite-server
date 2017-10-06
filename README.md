@@ -22,6 +22,10 @@ $ npm run dev
 lite-server can be also installed globally, if preferred:
 
 $ npm install -g lite-server
+
+in mac if there is any error of permission try below command
+$ sudo npm install -g lite-server
+
  
 # To run:
 $ lite-server
